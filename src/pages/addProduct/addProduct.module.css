@@ -1,0 +1,47 @@
+.container {
+  padding: 30px 150px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+.inputList {
+  display: flex;
+  gap: 10px;
+  width: 100%;
+  gap: 100px;
+  align-items: center;
+}
+.inputBox {
+  width: 500px;
+  height: 40px;
+  padding: 10px;
+  outline: none;
+  border-radius: 10px;
+  border: 1px solid #28190E;
+  margin-top: 10px;
+}
+.gambarInput {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.gambarBox {
+  width: 200px;
+  height: 200px;
+}
+.gambar {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
+.none {
+  display: none;
+}
+.button{
+  background-color: #15B097;
+  border-radius: 10px;
+  padding: 10px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}

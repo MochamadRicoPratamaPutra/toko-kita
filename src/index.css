@@ -11,3 +11,30 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+* {
+  box-sizing: border-box;
+}
+p {
+  margin: 0;
+}
+.fs-30 {
+  font-size: 30px;
+}
+.fs-25 {
+  font-size: 25px;
+}
+.fc-1 {
+  color: #71F79F;
+}
+.fc-2 {
+  color: #3DD6D0;
+}
+.fc-3 {
+  color: #15B097;
+}
+.fc-4 {
+  color: #513C2C;
+}
+.fc-5 {
+  color: #28190E;
+}

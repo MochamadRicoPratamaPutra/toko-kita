@@ -1,0 +1,29 @@
+.container {
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+.none {
+  display: none;
+}
+.searchBox {
+  width: 400px;
+  height: 30px;
+  padding: 5px 10px;
+  cursor: pointer;
+  border-radius: 10px;
+  border: none;
+  outline: none;
+}
+.buttonSearch {
+  background: none;
+  border: none;
+  outline: none;
+  position: absolute;
+  right: 0;
+  cursor: pointer;
+  z-index: 2;
+}
+.buttonSearch img {
+  height: 20px;
+}

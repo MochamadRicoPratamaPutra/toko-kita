@@ -1,0 +1,33 @@
+.container {
+  margin: 20px 150px;
+}
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+.add {
+  text-decoration: none;
+  padding: 5px 20px;
+  background-color: #15B097;
+  border-radius: 10px;
+}
+.cardContainer {
+  display: flex;
+  flex-direction: row;
+  gap: 109px;
+  flex-wrap: wrap;
+}
+.pagination {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  margin-top: 30px;
+}
+.none {
+  display: none;
+}
+.paginationButton {
+  cursor: pointer;
+}

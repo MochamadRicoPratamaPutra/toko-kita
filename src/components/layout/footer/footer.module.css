@@ -1,0 +1,11 @@
+.container {
+  background-color: #71F79F;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.footer {
+  color: #513C2C;
+  font-weight: bold;
+}
